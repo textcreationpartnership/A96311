@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sad relation of the miseries of the province of Munster in the realm of Ireland: signified by letters written from thence very lately, by a gentleman of good credit, to his brother here in London. By which it doth appear, in what imminent danger that province now is for to be lost, and how numerous the rebels now are there gathered together in their siege of Youghall, with a discovery of their barbarous and cruell usage to those English they take prisoners.</title>
+            <author>Whetcombe, Tristram.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96311</idno>
+            <idno type="STC">Wing W1638</idno>
+            <idno type="STC">Thomason E294_24</idno>
+            <idno type="STC">ESTC R200189</idno>
+            <idno type="EEBO-CITATION">99860994</idno>
+            <idno type="PROQUEST">99860994</idno>
+            <idno type="VID">113121</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96311)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113121)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 48:E294[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sad relation of the miseries of the province of Munster in the realm of Ireland: signified by letters written from thence very lately, by a gentleman of good credit, to his brother here in London. By which it doth appear, in what imminent danger that province now is for to be lost, and how numerous the rebels now are there gathered together in their siege of Youghall, with a discovery of their barbarous and cruell usage to those English they take prisoners.</title>
+                  <author>Whetcombe, Tristram.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Miller,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A gentleman of good credit = Tristram Whetcombe, whose name appears at end of text.</note>
+                  <note>Annotation on Thomason copy: "Aug: 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Munster (Ireland) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113121:1" rendition="simple:additions"/>
+            <p>A SAD RELATION OF THE MISERIES OF THE Province of MUNSTER in the Realm of IRELAND: Signified by Letters written from thence very lately, by a Gentleman of good credit, to his brother here in LONDON. By which it doth appear, in what imminent danger that Province now is for to be loſt, and how numerous the Rebels now are there gathered together in their Siege of <hi>Youghall,</hi> with a Diſ<g ref="char:EOLhyphen"/>covery of their barbarous and cruell uſage to thoſe Engliſh they take priſoners.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>G. Miller,</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:113121:2"/>
+            <pb n="1" facs="tcp:113121:2"/>
+            <head>A ſad RELATION Of the miſeries of the Province of <hi>Munſter</hi> in the Kingdome of <hi>IRELAND.</hi>
+            </head>
+            <head type="sub">Anno 1645. the <hi>19<hi rend="sup">th</hi>. Iuly,</hi> in Kinſall.</head>
+            <opener>
+               <salute>Brother BENJAMIN WHETCOMBE:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y laſt was of the <hi>21<hi rend="sup">th</hi>.</hi> paſt, of which you need no repe<g ref="char:EOLhyphen"/>tall, having many ſad paſſa<g ref="char:EOLhyphen"/>ges to relate which have happened ſince; as the Re<g ref="char:EOLhyphen"/>bels taking of <hi>Liſmore,</hi> and all the Ca<g ref="char:EOLhyphen"/>ſtles thereabouts; <hi>Liſmore</hi> men made
+<pb n="2" facs="tcp:113121:3"/>very ſtout reſiſtance, untill it was beaten down about their ears; they killed <hi>3.</hi> or <hi>4.</hi> hundred of them, and after came forth up<g ref="char:EOLhyphen"/>on Quarter: They have layen down before <hi>Youghall,</hi> and have environed it round: Another Army is lately fallen on the ea<g ref="char:EOLhyphen"/>ſterſide of the River, where they have planted <hi>3.</hi> peeces of Ordnance, which doth much anoy the Inhabitants: On Tueſday they made an unfortunate ſhot into the powder room of the <hi>Duncannon</hi> frigat, which blow her up and about <hi>18.</hi> of her men, many of the reſt dangerouſly hurt and burnt, and another Ship (I remember not her Name) with much difficulty got forth out of the Harbour, and lieth now with the Happy entrance, and the May flower, about <hi>Cable Iland,</hi> where I fear they can do no great good, ſo that that Town is in great danger to be loſt likewiſe,
+<pb n="3" facs="tcp:113121:3"/>for I know they have not proviſions in it for <hi>15.</hi> daies, and they have not any thing to encourage the poor Souldiers within nor without, their Cows are ſtarv'd, no hopes of the leaſt benefit of harveſt, and unleſſe ſome ſpeedy relief out of <hi>England, 2.</hi> or <hi>3.</hi> thou<g ref="char:EOLhyphen"/>ſand men and proviſions, or ſome miracu<g ref="char:EOLhyphen"/>lous deliverance from above betide us, their work will be ſoon done, I am very doubtfull before the fine of the next moneth we ſhall be all deſtroyed, and they ready to tranſport themſelves for <hi>Wales</hi> or <hi>England.</hi> Ne<g ref="char:EOLhyphen"/>ver were there the like barbarous acts com<g ref="char:EOLhyphen"/>mitted by any Nation as theſe do daily practiſe; the men which they took in <hi>Ro<g ref="char:EOLhyphen"/>ſtillo houſe,</hi> and ſuch other priſoners as they have taken ſince, are carried about in the Army maked as ever they were borns, manacled with ropes and iron ſo that they have not the benefit of their hands to beat
+<pb n="4" facs="tcp:113121:4"/>the flies from their bodies, but are eaten and ſtung, and ſo ſcorched with the Sun, that it is moſt lamentable to behold. It is repor<g ref="char:EOLhyphen"/>ted that within theſe <hi>4.</hi> or <hi>5.</hi> daies, they be<g ref="char:EOLhyphen"/>gin to allow them (eſpecially the women) raggs meerly to cover their nakedneſſe; this you may report and affirm to be truth. On Tueſday laſt we redeemed <hi>20.</hi> poor ſouls by exchange, which came to us in this con<g ref="char:EOLhyphen"/>dition: I would have this made known to the <hi>Welch</hi> and <hi>Corniſh,</hi> and to ſuch <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> as do adhere to them againſt us, and be reſolved whether this be as they would have it; you will finde their work being once done here, they will be poſting into <hi>England,</hi> or ſome out of <hi>England</hi> will come unto them, and neither can be good; which might eaſily have been prevented, had all thoſe that ſpeak us fair been our friends, our bloud will be required at ſome of their
+<pb n="5" facs="tcp:113121:4"/>hands: Many things more of the like na<g ref="char:EOLhyphen"/>ture I could enlarge of, but the Boat is up<g ref="char:EOLhyphen"/>on departure that muſt carry this to Cap<g ref="char:EOLhyphen"/>tain <hi>Claxtonn,</hi> who I hear is bound for <hi>England,</hi> God be his good ſpeed. I could wiſh my children were with you, but I can<g ref="char:EOLhyphen"/>not bring it to paſſe: J charge you in the Name of the moſt Higheſt, if J ſuffer, that you enquire after them, and have ſuch care of them to be educated, as behoveth a kinſman, and to be a father to them. Now the God of all comfort and conſolation, keep and preſerve you from all evill; in whom J reſt;</p>
+            <closer>
+               <signed>
+                  <hi>Your loving Brother,</hi> Triſtram Whetcombe.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
